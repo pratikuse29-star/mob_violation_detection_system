@@ -6,3 +6,10 @@ torchvision==0.16.0
 numpy==1.26.0
 gunicorn==21.2.0
 pandas
+tqdm
+matplotlib
+scipy
+seaborn
+PyYAML
+requests
+pillow
